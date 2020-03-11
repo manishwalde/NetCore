@@ -1,0 +1,188 @@
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeService.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csc.exe
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csc.exe.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csc.rsp
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csi.exe
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csi.exe.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\csi.rsp
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.AppContext.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Collections.Immutable.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Console.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.IO.Compression.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.IO.FileSystem.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.IO.Pipes.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Reflection.Metadata.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.AccessControl.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Claims.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.ValueTuple.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XPath.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\vbc.exe
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\vbc.exe.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\vbc.rsp
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\VBCSCompiler.exe
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\roslyn\VBCSCompiler.exe.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Antlr3.Runtime.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeDataAccess.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Microsoft.Web.Infrastructure.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Newtonsoft.Json.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Net.Http.Formatting.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Helpers.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.WebHost.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Mvc.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Optimization.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Razor.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.Deployment.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.Razor.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\WebGrease.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeDataAccess.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Newtonsoft.Json.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Net.Http.Formatting.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Helpers.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.WebHost.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Mvc.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Optimization.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Razor.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.Deployment.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.WebPages.Razor.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Antlr3.Runtime.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Cors.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.Cors.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\System.Web.Http.Cors.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EntityFramework.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EmployeeDataAccess.dll.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EntityFramework.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeService.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csc.exe
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csc.exe.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csc.rsp
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csi.exe
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csi.exe.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\csi.rsp
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.AppContext.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Collections.Immutable.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Console.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.IO.Compression.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.IO.FileSystem.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.IO.Pipes.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Reflection.Metadata.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.AccessControl.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Claims.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.ValueTuple.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XPath.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\vbc.exe
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\vbc.exe.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\vbc.rsp
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\VBCSCompiler.exe
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\roslyn\VBCSCompiler.exe.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Antlr3.Runtime.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeDataAccess.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EntityFramework.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Microsoft.Web.Infrastructure.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Newtonsoft.Json.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Net.Http.Formatting.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Cors.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Helpers.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.Cors.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.WebHost.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Mvc.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Optimization.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Razor.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.Deployment.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.Razor.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\WebGrease.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeDataAccess.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EmployeeDataAccess.dll.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EntityFramework.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Net.Http.Formatting.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.Cors.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Newtonsoft.Json.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Helpers.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Http.WebHost.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Mvc.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Optimization.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.Razor.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.Deployment.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\System.Web.WebPages.Razor.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Antlr3.Runtime.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

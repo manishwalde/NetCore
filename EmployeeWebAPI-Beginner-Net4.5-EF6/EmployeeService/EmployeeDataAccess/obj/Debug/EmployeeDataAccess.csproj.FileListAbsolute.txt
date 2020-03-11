@@ -1,0 +1,24 @@
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\ManishW\Project\NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\ManishW\Practice Project\NetCore\EmployeeWebAPI-Beginner-Net4.5-EF6\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
